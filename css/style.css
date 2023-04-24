@@ -1,7 +1,7 @@
 
 
 .title-text {
-  font-family: 'Papyrus', sans-serif;
+  font-family: 'Papyrus', 'Bellefair', sans-serif;
   font-size: 8rem;
   color:#ffffff;
 }
@@ -9,10 +9,6 @@
 @media (max-width:1200px) {
   .title-text{
     font-size: 5rem;
-  }
-  
-  .bg-image {
-    height: 100vh!important;
   }
 }
 
